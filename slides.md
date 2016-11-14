@@ -43,7 +43,7 @@ Montpellier - 2016/11/15
 * **1999 - 2000** - PCEM1, Paris 7
 * **2001** - DEUG2 SNV, Paris 7
 
-![](/images//3o7aTskHEUdgCQAXde.gif)
+![](images//3o7aTskHEUdgCQAXde.gif)
 <!-- .element: class="fragment" -->
 
 ----
@@ -53,7 +53,7 @@ Montpellier - 2016/11/15
 **2002 - 2003**
 License & Maîtrise de Biochimie, Paris 7
 
-![](/images/194-Designer_Insulins-4ajx.jpg)
+![](images/194-Designer_Insulins-4ajx.jpg)
 
 <small>
 Image credit: David S. Goodsell - [doi:10.2210/rcsb_pdb/mom_2016_2](http://dx.doi.org/10.2210/rcsb_pdb/mom_2016_2)
@@ -65,7 +65,7 @@ Image credit: David S. Goodsell - [doi:10.2210/rcsb_pdb/mom_2016_2](http://dx.do
 
 **2004** - DEA AGM2, Paris 7
 
-![](/images//SfFGKJ4NbYyhG.gif)
+![](images//SfFGKJ4NbYyhG.gif)
 <!-- .element: class="fragment" -->
 
 ----
@@ -137,7 +137,7 @@ Hexokinase induced fit. Source: [wikipedia](https://en.wikipedia.org/wiki/Enzyme
 
 **2008** - Assistant Professor
 
-![](/images//sIRgRL2Jhyvh6.gif)
+![](images//sIRgRL2Jhyvh6.gif)
 
 ----
 
@@ -173,7 +173,7 @@ _versus_
 
 #### Co-founder of
 
-![](/images/logo-clermontech.png)
+![](images/logo-clermontech.png)
 
 * Technology-agnostic user group
 * Recurrent events: [APIHours](http://clermontech.org/api-hours/)
@@ -204,7 +204,7 @@ _versus_
 #### That's nice, but...
 ### what is your "real job" now?
 
-![](/images//dXICCcws9oxxK.gif)
+![](images//dXICCcws9oxxK.gif)
 
 ----
 

@@ -1,5 +1,5 @@
 body {
-  background-image: url('/images/logo-tailordev.png');
+  background-image: url('../images/logo-tailordev.png');
   background-repeat: no-repeat;
   background-position: 1em calc(100% - 1em);
 }
